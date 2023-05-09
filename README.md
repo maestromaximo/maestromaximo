@@ -1,9 +1,10 @@
--Hi, I’m @maestromaximo, Alejandro G.P 
-- I share a great interest within applications that exploit of simple/complex algorithims that allow for a task to be done elegantly.
-- I am currently learning Android App development (Java), Game design (Unity: C#), Microcontroller applications(Arduino Lenguage 'Java')
-  and beginning to understand machine learning(Python) while further developing my knowledge of OOP in Java.
-- I am looking to collaborate in any project, specially if their ultimate pourpose sorrounds Scientific exploration.
-- You can reach me at my email: alejandrogarcia2423@hotmail.com
+#Introduction
+Hi, my name is Alejandro G.P, and I'm a software developer with a passion for elegant algorithmic solutions. Here's a bit more about me:
+
+-I have experience developing 3D, 2D, and VR games for mobile and desktop platforms, using tools like Unity and I can find my way mainly around Python, Java, C#, JavaScript
+-I'm currently focused on API integration with LLM's, specifically GPT-4, and developing applications that leverage this tool to solve interesting problems.
+-In my free time, I enjoy exploring new technologies and experimenting with them and how they may be expanded upon
+-You can find examples of my work on my GitHub page, and feel free to contact me at alejandrogarcia2423@hotmail.com with any questions or inquiries.
 
 <!---
 maestromaximo/maestromaximo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

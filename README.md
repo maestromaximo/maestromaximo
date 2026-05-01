@@ -8,7 +8,7 @@
   <a href="https://www.agarciap.com">Website</a> ·
   <a href="https://www.linkedin.com/in/alejandrogarciapolo/">LinkedIn</a> ·
   <a href="https://github.com/maestromaximo/codex-local-sdk-python">Codex SDK</a> ·
-  <a href="https://github.com/maestromaximo/agent-sdk-mutta">Mutta</a>
+  <a href="https://www.agarciap.com/book/">MUTTA Book</a>
 </p>
 
 ---
